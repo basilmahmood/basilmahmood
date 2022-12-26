@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as a Software Engineer at Github
+- 🌱 I’m currently learning Ruby on Rails
+- 🏫 Education
+  - 🎓 I graduated from Lassonde School of Engineering (York University) in 2021
+  - ⚡I have a BEng in Electrical Engineering
+- ✨ Hobbies
+  - ♟️I like to play chess
+  - 🎮 I like to play video games
+- 📫 How to reach me
+  - 📨 Shoot me an email at basilmahmood.to@gmail.com
+
 <!--
 **basilmahmood/basilmahmood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
