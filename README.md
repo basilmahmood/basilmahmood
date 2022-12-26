@@ -3,7 +3,7 @@
 - 👨‍💻 I’m currently working as a Software Engineer at Github
 - 🌱 I’m currently learning Ruby on Rails
 - 🏫 Education
-  - 🎓 I graduated from Lassonde School of Engineering (York University) in 2021
+  - 🎓 I graduated from the Lassonde School of Engineering (York University) in 2021
   - ⚡I have a BEng in Electrical Engineering
 - ✨ Hobbies
   - ♟️I like to play chess
