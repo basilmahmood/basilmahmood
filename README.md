@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Software Engineer at Github
+- 👨‍💻 I’m currently working as a Software Engineer at Github
 - 🌱 I’m currently learning Ruby on Rails
 - 🏫 Education
   - 🎓 I graduated from Lassonde School of Engineering (York University) in 2021
